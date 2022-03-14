@@ -4,5 +4,5 @@ height: 100%;
 display: block;
 margin-left: auto;
 margin-right: auto;
-filter: saturate((1)/(t/t)*wave1(n/t));
+filter: saturate(#FFBF00);
 }
