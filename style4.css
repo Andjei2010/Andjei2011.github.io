@@ -4,5 +4,5 @@ height: 100%;
 display: block;
 margin-left: auto;
 margin-right: auto;
-filter: saturate(&#x23FE;);
+filter: saturate(i2*Pi/6 u2*Pi/6);
 }
